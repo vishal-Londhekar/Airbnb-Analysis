@@ -1,5 +1,7 @@
 # Airbnb Global Listings Analysis — Tableau
 
+> **Data Analyst & Business Intelligence Analyst portfolio project**
+
 A Tableau business analytics project exploring Airbnb listing characteristics, pricing, availability, host activity, and geographic patterns.
 
 ## Overview
@@ -31,7 +33,17 @@ Tableau Desktop or Tableau Reader, calculated fields, filters, maps, charts, and
 3. If Tableau requests a data connection, follow the workbook's packaged-data instructions.
 4. Use the dashboard filters and sheet navigation to explore the views.
 
-## Limitations
+## Analyst value
+
+> **Portfolio focus:** Business Intelligence · Hospitality Analytics · Geographic Storytelling
+
+**Stakeholder lens:** Hosts, marketplace teams, revenue managers, and hospitality operators.
+
+**Skills demonstrated:** Tableau dashboard design, calculated fields, geographic analysis, pricing comparisons, filtering, ranking, and executive-style visual storytelling.
+
+**Decision support:** Turns listing-level data into questions about pricing, availability, property mix, host activity, and neighbourhood performance.
+
+## $1
 
 - The repository does not include a separate raw-data file or extraction script.
 - Results depend on the source snapshot embedded in the packaged workbook.
