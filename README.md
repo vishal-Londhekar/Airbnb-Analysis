@@ -33,6 +33,21 @@ Tableau Desktop or Tableau Reader, calculated fields, filters, maps, charts, and
 3. If Tableau requests a data connection, follow the workbook's packaged-data instructions.
 4. Use the dashboard filters and sheet navigation to explore the views.
 
+
+## Business problem and decision
+
+### Business problem
+Hosts and hospitality teams need to understand how listing price, property type, location, availability, reviews, and host activity relate to marketplace performance. A raw listings file alone does not provide an accessible view for comparing neighbourhoods or identifying competitive patterns.
+
+### Analyst question
+Where do listing prices and availability differ by geography and property type, and which segments deserve deeper commercial investigation?
+
+### Decision supported
+A stakeholder can use the dashboard to explore pricing benchmarks, prioritise neighbourhood research, compare listing segments, and form hypotheses for revenue or listing strategy.
+
+### Potential success measure
+The dashboard should make recurring marketplace questions faster to answer and provide consistent definitions for price, availability, review, and host comparisons.
+
 ## Analyst value
 
 > **Portfolio focus:** Business Intelligence · Hospitality Analytics · Geographic Storytelling
