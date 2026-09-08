@@ -43,7 +43,7 @@ Tableau Desktop or Tableau Reader, calculated fields, filters, maps, charts, and
 
 **Decision support:** Turns listing-level data into questions about pricing, availability, property mix, host activity, and neighbourhood performance.
 
-## $1
+## Limitations
 
 - The repository does not include a separate raw-data file or extraction script.
 - Results depend on the source snapshot embedded in the packaged workbook.
